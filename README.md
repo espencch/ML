@@ -97,5 +97,5 @@ Conclusion
 We have now seen an end-to-end example of sound classification
 which is one of the most foundational problems in audio deep learning.
 
-
+http://bit.ly/3WReqD1
 
